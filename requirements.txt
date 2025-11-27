@@ -1,5 +1,5 @@
-minisom>=2.3.0
-pyaudio>=0.2.11
-scipy>=1.10.0
-matplotlib>=3.7.0
-numpy>=1.24.0
+minisom
+pyaudio
+scipy
+matplotlib
+numpy
