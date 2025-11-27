@@ -17,7 +17,10 @@ This tool is designed for:
 * Tonotopic map simulations
 * Teaching concepts of signal visualization and unsupervised learning
 * Real-time demonstrations
-
+[![Stars](https://img.shields.io/github/stars/Abolfazlms/Live-Auditory-Cortex?style=social)](https://github.com/Abolfazlms/Live-Auditory-Cortex/stargazers)
+[![Forks](https://img.shields.io/github/forks/Abolfazlms/Live-Auditory-Cortex?style=social)](https://github.com/Abolfazlms/Live-Auditory-Cortex/network/members)
+[![License](https://img.shields.io/github/license/Abolfazlms/Live-Auditory-Cortex)](https://github.com/Abolfazlms/Live-Auditory-Cortex/blob/main/LICENSE)
+[![Issues](https://img.shields.io/github/issues/Abolfazlms/Live-Auditory-Cortex)](https://github.com/Abolfazlms/Live-Auditory-Cortex/issues)
 ---
 
 ## 🔬 Project Concept
@@ -205,5 +208,6 @@ This project is released under the **MIT License**.
 * Allow SOM parameters to be adjustable via CLI or GUI
 * Periodic saving of training state for recovery
 
-## Live Demo
+### Live Dashboard — Watch the cortex organize itself in real time!
 ![Live Demo](assets/demo.gif)
+*Whistle, speak, clap, play music — see how the tonotopic map forms instantly, just like in your brain.*
