@@ -5,6 +5,15 @@
 **License:** MIT  
 **Repository:** [https://github.com/Abolfazlms/Live-Auditory-Cortex](https://github.com/Abolfazlms/Live-Auditory-Cortex)
 
+<div align="center">
+
+[![Stars](https://img.shields.io/github/stars/Abolfazlms/Live-Auditory-Cortex?style=social)](https://github.com/Abolfazlms/Live-Auditory-Cortex/stargazers)
+[![Forks](https://img.shields.io/github/forks/Abolfazlms/Live-Auditory-Cortex?style=social)](https://github.com/Abolfazlms/Live-Auditory-Cortex/network/members)
+[![License](https://img.shields.io/github/license/Abolfazlms/Live-Auditory-Cortex)](https://github.com/Abolfazlms/Live-Auditory-Cortex/blob/main/LICENSE)
+[![Issues](https://img.shields.io/github/issues/Abolfazlms/Live-Auditory-Cortex)](https://github.com/Abolfazlms/LLive-Auditory-Cortex/issues)
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://python.org)
+
+</div>
 ---
 
 ## 🧠 Introduction
@@ -17,10 +26,6 @@ This tool is designed for:
 * Tonotopic map simulations
 * Teaching concepts of signal visualization and unsupervised learning
 * Real-time demonstrations
-[![Stars](https://img.shields.io/github/stars/Abolfazlms/Live-Auditory-Cortex?style=social)](https://github.com/Abolfazlms/Live-Auditory-Cortex/stargazers)
-[![Forks](https://img.shields.io/github/forks/Abolfazlms/Live-Auditory-Cortex?style=social)](https://github.com/Abolfazlms/Live-Auditory-Cortex/network/members)
-[![License](https://img.shields.io/github/license/Abolfazlms/Live-Auditory-Cortex)](https://github.com/Abolfazlms/Live-Auditory-Cortex/blob/main/LICENSE)
-[![Issues](https://img.shields.io/github/issues/Abolfazlms/Live-Auditory-Cortex)](https://github.com/Abolfazlms/Live-Auditory-Cortex/issues)
 ---
 
 ## 🔬 Project Concept
