@@ -3,8 +3,7 @@
 **Version:** 1.0.0
 **Author:** Abolfazl Mastaalizadeh
 **License:** MIT
-**Repository:** [https://github.com/yourusername/auditory-som-live](https://github.com/yourusername/auditory-som-live)\n
-
+**Repository:** [[https://github.com/yourusername/auditory-som-live](https://github.com/Abolfazlms/Live-Auditory-Cortex)]
 ---
 
 ## 🧠 Introduction
@@ -80,7 +79,7 @@ The program provides live panels for:
 
 Below is an example of the program running, showing live waveform, spectrogram, features, and the evolving SOM tonotopic map:
 
-![Live Auditory Cortex Simulation](assets/figure_1.png)
+![Live Auditory Cortex Simulation](assets/Figure_1.png)
 
 > Note: Replace `screenshot_example.png` with an actual screenshot saved from the `auditory_som_results` folder after running the program.
 
