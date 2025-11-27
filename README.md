@@ -1,9 +1,9 @@
 # 🎧 Real-Time Auditory Cortex Simulation using Self-Organizing Maps
 
-**Version:** 1.0.0
-**Author:** Abolfazl Mastaalizadeh
-**License:** MIT
-**Repository:** [https://github.com/yourusername/auditory-som-live](https://github.com/yourusername/auditory-som-live)
+**Version:** 1.0.0\n
+**Author:** Abolfazl Mastaalizadeh\n
+**License:** MIT\n
+**Repository:** [https://github.com/yourusername/auditory-som-live](https://github.com/yourusername/auditory-som-live)\n
 
 ---
 
